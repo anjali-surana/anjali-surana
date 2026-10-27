@@ -2,5 +2,10 @@
 layout: home
 ---
 
-Things I'm learning, questions I'm asking,
-and ideas I'm exploring.
+dump of things I'm learning and thinking about right now (mostly AI Safety)
+
+<style>
+  .rss-subscribe {
+    display: none;
+  }
+</style>
